@@ -97,9 +97,9 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/4.jpg" class="img-fluid" alt="">
+            <img src="assets/img/3.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-md-7 pt-4">
+          <div class="col-md-7">
             <h3>Delivering good using our own vericles</h3>
             <p class="fst-italic">
               RPPL is always ready to serve best service for our customer without any inturruption. 
@@ -113,27 +113,33 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/5.jpg" class="img-fluid" alt="">
+            <img src="assets/img/10.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-md-7 pt-5 order-2 order-md-1">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Other Services</h3>
+            <p class="">
+              Pipe line and tanks installation and servicing
+            </p>
+            <p class="">
+              Burners and Stove cleaning
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              Supply of cleaning & Sanitisation chemicals,with masks and other products.
+            </p>
+            <p>
+              Deep Cleaning services of Kitchen & Dinning area of high volume customers
+            </p>
+            <p>
+              Safety Audit, Safety maintenance & Safety training.
             </p>
           </div>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/6.jpg" class="img-fluid" alt="">
+            <img src="assets/img/2.png" class="img-fluid" alt="">
           </div>
-          <div class="col-md-7 pt-5">
+          <div class="col-md-7 ">
             <h3>Online Booking through Application and using website.</h3>
             <p>At RPPL we develop our own billing platform to perform all bookings and transactions.</p>
             <ul>
@@ -146,7 +152,7 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/7.jpg" class="img-fluid" alt="">
+            <img src="assets/img/8.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
             <h3>Lots of products and benefits on your way</h3>

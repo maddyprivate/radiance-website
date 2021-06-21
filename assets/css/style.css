@@ -876,7 +876,7 @@ section {
 # Features
 --------------------------------------------------------------*/
 .features .row + .row {
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
 .features h3 {
