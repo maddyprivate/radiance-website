@@ -97,7 +97,7 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
+            <img src="assets/img/4.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4">
             <h3>Delivering good using our own vericles</h3>
@@ -113,7 +113,7 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-2.svg" class="img-fluid" alt="">
+            <img src="assets/img/5.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
             <h3>Corporis temporibus maiores provident</h3>
@@ -131,7 +131,7 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/features-3.svg" class="img-fluid" alt="">
+            <img src="assets/img/6.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5">
             <h3>Online Booking through Application and using website.</h3>
@@ -146,7 +146,7 @@
 
         <div class="row" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-4.svg" class="img-fluid" alt="">
+            <img src="assets/img/7.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
             <h3>Lots of products and benefits on your way</h3>

@@ -54,7 +54,10 @@
 
         <div class="col-lg-3 col-md-6 footer-info">
           <h3>About Radiance Gas</h3>
-          <p>Radiancelpg Petrochem Private Limited [RPPL] is company registered under Companies Act 2013 with the main activity to carry on the business of trading of LPG and setting up LPG bottling plants and work as operator for other private companies and government companies. We propose to set up our first state of art LPG bottling plant in Village Mohandul, Padga, Taluka Bhiwandi District Thane with the launch of our own new brand in LPG market. We also propose to expand same line business and set up bottling plants for different companies like Aegis Logistics Private Limited, Total Oil Private Limited, and government companies like Hindustan Petroleum Private Limited.</p>
+          <p>
+            Radiancelpg Petrochem Private Limited [RPPL] is company registered under Companies Act 2013 with the main activity to carry on the business of trading of LPG and setting up LPG bottling plants and work as operator for other private companies and government companies. 
+           <!--  We propose to set up our first state of art LPG bottling plant in Village Mohandul, Padga, Taluka Bhiwandi District Thane with the launch of our own new brand in LPG market. We also propose to expand same line business and set up bottling plants for different companies like Aegis Logistics Private Limited, Total Oil Private Limited, and government companies like Hindustan Petroleum Private Limited. -->
+          </p>
           <div class="social-links mt-3">
             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
             <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
