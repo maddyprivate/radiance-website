@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-3.jpg" alt="">
+                  <img src="assets/img/portfolio/bottle.jpg" alt="">
                 </div>
 
               </div>
