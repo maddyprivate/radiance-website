@@ -26,16 +26,17 @@
             <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="services.php">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="portfolio.php">Portfolio</a></li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>All About LPG</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="">What Is LPG?</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="">Rifining</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">LPG Properties</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">LPG Benefits</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="allaboutlpg.php">What Is LPG?</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="refining.php">Rifining</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="lpgproperties.php">LPG Properties</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="lpgbenefits.php">LPG Benefits</a></li>
 
           </ul>
         </div>

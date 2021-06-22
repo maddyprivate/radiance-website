@@ -44,7 +44,17 @@
         <ul>
           <li><a <?php if($curPageName=="index.php") { ?> class="active" <?php } ?> href="index.php">Home</a></li>
           <li><a <?php if($curPageName=="about.php") { ?> class="active" <?php } ?> href="about.php">About</a></li>
-          <li><a <?php if($curPageName=="allaboutlpg.php") { ?> class="active" <?php } ?> href="allaboutlpg.php">All about LPG</a></li>
+          <!-- <li><a <?php if($curPageName=="allaboutlpg.php") { ?> class="active" <?php } ?> href="allaboutlpg.php">All about LPG</a></li> -->
+
+          <li class="dropdown"><a href="#"><span>All about LPG</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="allaboutlpg.php">What is LPG</a></li>
+              <li><a href="refining.php">Refining</a></li>
+              <li><a href="lpgproperties.php">LPG Properties</a></li>
+              <li><a href="lpgbenefits.php">LPG Benefits</a></li>
+            </ul>
+          </li>
+
           <li><a <?php if($curPageName=="services.php") { ?> class="active" <?php } ?> href="services.php">Services</a></li>
           <li><a <?php if($curPageName=="team.php") { ?> class="active" <?php } ?> href="team.php">Team</a></li>
           <li><a  <?php if($curPageName=="contact.php") { ?> class="active" <?php } ?>  href="contact.php">Contact Us</a></li>

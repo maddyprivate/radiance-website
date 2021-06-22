@@ -10,7 +10,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Radiance LPG Petrochem Pvt. Ltd. </span></h2>
           <p class="animate__animated animate__fadeInUp">We aim at no barrier for LPG connection, improved distribution network, cleaner cooking fuel for all at the most competitive price. As we Always looking to become a better version of ourselves and never settle for anything less than that.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
 
@@ -19,7 +19,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">An Ordinary Company With Extra Ordinary Benefits</h2>
           <p class="animate__animated animate__fadeInUp">We are the LPG company Treating customers with respect and building their faith on us and consistentely Growing through the feedback and motivation given by the customers. Which Reflecting the customer’s suggestions in the LPG we supply.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
 
@@ -28,7 +28,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Real Secret of Tasty Food</h2>
           <p class="animate__animated animate__fadeInUp">We Aim To become a consistent and stable brand in the LPG sector and build an excellent reputation and become a key player in the Industry to set up a corporate team that has a vision of expanding the business and establishing it as the best brand in PAN India.</p>
-          <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+          <a href="about.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
 
@@ -107,6 +107,10 @@
             <ul>
               <li><i class="bi bi-check"></i> We have our own Gas Tankers in which we can deliver LPG for all industrial partners.</li>
               <li><i class="bi bi-check"></i> Also we have colaboration with largest logistic support in entire area to make sure that everyone get delivery on time.</li>
+              <li><i class="bi bi-check"></i> Company owned or fully rented LPG cylinder filling plants.</li>
+              <li><i class="bi bi-check"></i> Company owned Large quantity LPG storage godowns.</li>
+              <li><i class="bi bi-check"></i> Company dedicated delivery vehicles to distributors.</li>
+              <li><i class="bi bi-check"></i> Experienced staff and technical engineers for immediate assistance. Which you can avail 24/7 with single contact. </li>
             </ul>
           </div>
         </div>
@@ -116,22 +120,19 @@
             <img src="assets/img/10.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>Other Services</h3>
-            <p class="">
-              Pipe line and tanks installation and servicing
-            </p>
-            <p class="">
-              Burners and Stove cleaning
-            </p>
-            <p>
-              Supply of cleaning & Sanitisation chemicals,with masks and other products.
-            </p>
-            <p>
-              Deep Cleaning services of Kitchen & Dinning area of high volume customers
-            </p>
-            <p>
-              Safety Audit, Safety maintenance & Safety training.
-            </p>
+            <h3>Other features and services</h3>
+            <ul> 
+            <li><i class="bi bi-check"></i>Pipe line and tanks installation and servicing
+            </li>
+            <li><i class="bi bi-check"></i> Burners and Stove cleaning
+            </li>
+            <li><i class="bi bi-check"></i>Supply of cleaning & Sanitisation chemicals,with masks and other products.</li>
+            <li><i class="bi bi-check"></i> Deep Cleaning services of Kitchen & Dinning area of high volume customers </li>
+            <li><i class="bi bi-check"></i> Safety Audit, Safety maintenance & Safety training.
+            </li></ul>
+            <li><i class="bi bi-check"></i> Accurate LPG weight in cylinders due to digital weighing machines.
+            </li></ul>
+
           </div>
         </div>
 
@@ -146,12 +147,14 @@
               <li><i class="bi bi-check"></i> For Booking you can simmply visit our website www.radiancelpg.in</li>
               <li><i class="bi bi-check"></i> You can book cylinder without worrying since we've secured system.</li>
               <li><i class="bi bi-check"></i> We have highely secured and transparent billing services to make sure your details are secured.</li>
+              <li><i class="bi bi-check"></i> Now you can order the cylinder through application and delivery tracking through software.</li>
+
             </ul>
           </div>
         </div>
 
         <div class="row" data-aos="fade-up">
-          <div class="col-md-5 order-1 order-md-2">
+          <div class="col-md-4 pt-8 order-1 order-md-2">
             <img src="assets/img/8.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1">
@@ -160,6 +163,10 @@
             <ul>
             <li><i class="bi bi-check"></i>Portable Vaporizer's to Restaurants by 33kg LOT cylinders. Reticulated Pipeline systems to Complexes. So that Poor People will having options to buy 2kg, 4kg, 8kg, cylinders.</li>
             <li><i class="bi bi-check"></i>For commercial purpose 15kg, 17kg and 21kg cylinder options and FOC cylinders to hardworking dealers.</li>
+            <li><i class="bi bi-check"></i> Imported Pure Quality LPG which was already  gone through multiple check and quality measures</li>
+            <li><i class="bi bi-check"></i> For commercial use we've 17 KG, 33 KG, 45KG Cylinders are available</li>
+            <li><i class="bi bi-check"></i> All deliveries conducted and complete by distributors and delivery service from 7am to 11pm.</li>
+
             </p>
           </div>
         </div>
