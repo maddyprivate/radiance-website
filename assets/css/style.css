@@ -1363,7 +1363,7 @@ section {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 4px;
   border-bottom: 1px solid #eee;
 }
 
@@ -1384,7 +1384,7 @@ section {
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .portfolio-details .portfolio-description p {

@@ -61,12 +61,13 @@
             <div class="portfolio-description">
               <h2>What is Refining</h2>
               <p>
-                The propane and butane blended into LPG can come from many different process units in the refinery, as well as from outside sources such as natural gas plants (from separating NGLs) or steam crackers (from C4 raffinates). Major sources inside the refinery include: Atmospheric distillation - All crude oils yield some amount of propane and butane when distilled. Typically, they leave the distillation tower in a wet gas stream that is sent to the saturated gas plant for separation of propane and butane from lighter gases (methane and ethane) that are then used for refinery fuel FCC - In the FCC conversion process, large amounts of C3s and C4s are produced,<span id="dots-1">.</span><br>
+                The propane and butane blended into LPG can come from many different process units in the refinery, as well as from outside sources such as natural gas plants (from separating NGLs) or steam crackers (from C4 raffinates). Major sources inside the refinery include: Atmospheric distillation - All crude oils yield some amount of propane and butane when distilled.<span id="dots-1">.</span><br>
                 <a href="javascript:void(0)" onclick="showMore(1)" id="myBtn-1">Read More</a>
               </p>
             </div>
           </div>
           <div class="col-lg-12" style="display: none;" id="more-1">
+             Typically, they leave the distillation tower in a wet gas stream that is sent to the saturated gas plant for separation of propane and butane from lighter gases (methane and ethane) that are then used for refinery fuel FCC - In the FCC conversion process, large amounts of C3s and C4s are produced,
              including both saturated propane and butane and unsaturated propylene and butylene. Often the unsaturated olefins are separated for use as feed to the alkylation unit or as feed to petrochemicals units Coker - Similar to the FCC, the coker conversion process generates mixed C3s and C4s containing saturated and unsaturated molecules. However, it is less common for coker C3s and C4s to have their olefins separated out Reformer - Reformers will yield approximately 5% (by volume) of both C3s and C4s in the conversion process  
           </div>
         </div>

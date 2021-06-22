@@ -61,12 +61,13 @@
             <div class="portfolio-description">
               <h2>Properties of LPG</h2>
               <p>
-                Liquefied Petroleum gas, or LPG as it is better known as, is a hydrocarbon. It contains propane, butane, propylene and butylene. Since it is an inflammable mixture of all these gases, it has to be stored carefully. The various properties of LPG are: It is a good mixture of gases, mainly constituting Propane and Butane. It has a simple structure in chemical terms. It is one of the cleanest of all alternative fuels. It is a liquid under normal pressure but at ambient conditions, it is found to be gaseous. LPG in vaporous form is two times heavier than air. Properties of LPG· The boiling point of LPG normally ranges anywhere between -42 degrees to 0 degree. The boiling point depends on what proportions are Butane and Propane present in the mixture.<span id="dots-1">..</span><br>
+                Liquefied Petroleum gas, or LPG as it is better known as, is a hydrocarbon. It contains propane, butane, propylene and butylene. Since it is an inflammable mixture of all these gases, it has to be stored carefully. The various properties of LPG are: It is a good mixture of gases, mainly constituting Propane and Butane. It has a simple structure in chemical terms. It is one of the cleanest of all alternative fuels. It is a liquid under normal pressure but at ambient conditions, it is found to be gaseous. LPG in vaporous form is two times heavier than air. <span id="dots-1">..</span><br>
                 <a href="javascript:void(0)" onclick="showMore(1)" id="myBtn-1">Read More</a>
               </p>
             </div>
           </div>
           <div class="col-lg-12" style="display: none;" id="more-1">
+            Properties of LPG· The boiling point of LPG normally ranges anywhere between -42 degrees to 0 degree. The boiling point depends on what proportions are Butane and Propane present in the mixture.
             LPG is almost colourless and has to be stored as liquid under pressure. Its weight is about half that of the same volume of water. Ethyl Mercaptan is another product which is used to detect LPG leaks. It works like odorant and helps to know when there are LPG leaks. LPG’s Flash point is -76 degrees Fahrenheit. LPG is essentially a non toxic substance but it can be dangerous if not handled carefully. LPG is also known to cause suffocation. It is mildly anaesthetic and can be harmful if it is found to be present in high proportions. In spite of its anaesthetic properties, LPG has never been used or considered safe enough for medicinal purposes. The ignition temperature of LPG is found to be in the range of 410 to 580 deg Celsius. It is also known that liquid LPG has resulted in cold burns to human skin since it causes vaporisation at a very fast rate.  
           </div>
         </div>
